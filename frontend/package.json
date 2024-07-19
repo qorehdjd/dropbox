@@ -13,6 +13,7 @@
     "react-dom": "^18.3.1",
     "react-dropbox-chooser": "^0.0.5",
     "react-dropzone": "^14.2.3",
+    "react-google-drive-picker": "^1.2.2",
     "react-modal": "^3.16.1",
     "react-scripts": "5.0.1",
     "styled-components": "^6.1.12",
